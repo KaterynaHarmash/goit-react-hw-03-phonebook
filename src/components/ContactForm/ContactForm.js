@@ -40,7 +40,7 @@ export const ContactForm = ({ onSubmit }) => {
           <Error name="name" component="span" />
         </InputContainer>
         <InputContainer>
-          <Input name="number" placeholder="+380-95-999-88-77" />
+          <Input name="number" placeholder="380959998877" />
           <Label htmlFor="number">Number</Label>
           <Error name="number" component="span" />
         </InputContainer>
